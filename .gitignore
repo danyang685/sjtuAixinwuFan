@@ -1,0 +1,4 @@
+/frozen/
+**/__pycache__/
+**/*.csv
+**/*.bat
